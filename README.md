@@ -6,13 +6,13 @@ This website is a tutorial repository of meta-analyses and systematic reviews de
 This page will cover resources and tutorials of **meta-analyses** and **systematic reviews** in ecology as well as in environmental research.
 
 ## Contents
-[1.Meta-Analysis](## Meta-analyses)
+[Meta-Analysis](##Meta-analyses)
 - Basics idea behind meta-analysis
 - Referred Books and Papers
 - R Codes
 - New techniques of Meta Analysis
 
-[2.Systematic review](## Systematic review)
+[Systematic review](##Systematic review)
 - Basics idea behind meta-analysis
 - Referred Books and Papers
 - R Codes
