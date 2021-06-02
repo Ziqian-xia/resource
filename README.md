@@ -12,7 +12,7 @@ This page will cover resources and tutorials of **meta-analyses** and **systemat
 - R Codes
 - New techniques of Meta Analysis
 
-[Systematic review](##Systematic review)
+[Systematic review](##systematic-review)
 - Basics idea behind meta-analysis
 - Referred Books and Papers
 - R Codes
