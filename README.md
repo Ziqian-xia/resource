@@ -1,7 +1,7 @@
 # Resources
 This website is a tutorial repository of meta-analyses and systematic reviews designed specifically for [Cao's group](http://people.ucas.ac.cn/~caoy1) as part of the 2020 CAS Undergraduate Inovation Program.
 
-*Note:This site is regularly updated by [Ziqian Xia](https://ziqian-xia.github.io/), feel free to reach me by ziqian.research@gmail.com.*
+*Note:This site is regularly updated by [Ziqian Xia](https://ziqian-xia.tech/), feel free to reach me by ziqian.research@gmail.com.*
 
 This page will cover resources and tutorials of **meta-analyses** and **systematic reviews** in ecology as well as in environmental research.
 
@@ -12,11 +12,6 @@ This page will cover resources and tutorials of **meta-analyses** and **systemat
 - R Codes
 - New techniques of Meta Analysis
 
-[Systematic review](##systematic-review)
-- Basics idea behind meta-analysis
-- Referred Books and Papers
-- R Codes
-- New techniques of Meta Analysis
 
 ## Meta-analyses
 ### Basics idea behind meta-analysis
@@ -120,5 +115,3 @@ plot(inf, layout=c(1,1))
 fsn(yi, vi, data=datafile, type="Rosenthal")
 ```
 
-## Systematic review
-Systematic review
